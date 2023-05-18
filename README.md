@@ -1,1 +1,1 @@
-# Image-Editor
+# Image Editor
